@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="coloractionbar">#18709C</color>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#7A000000</drawable>
+
+    <color name="designColor">#0c274c</color>
+    <color name="backgroundColor">#fff6ee</color>
+    <color name="highlightOn">#19bdc4</color>
+    <color name="highlightOff">#0c274c</color>
+</resources>
